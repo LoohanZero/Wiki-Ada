@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-color: #63707e;
+}
+h1 {
+    font-family: 'Linux Libertine','Georgia','Times',serif;
+    font-size: 50px;
+    text-align: center;
+    padding: 40px;
+    background-color: #f2f6f5;
+    
+}
+
+h2 {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    padding: 10px 0px;
+    
+    
+}
+
+
+h4, h3 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 14px;
+    text-align: center;
+    padding: 20px;
+    }
+p {
+    font-family: sans-serif;
+    font-size: 14px;
+    padding: 5px;
+    text-align: justify;
+    margin: 0 10px;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+ol, ul {
+    font-family: sans-serif;
+    font-size: 14px;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding: 5px 30px;
+    
+    }
+
+
+.description-container {
+    width: 900px;
+    margin: auto;
+    padding: 15px 30px;
+    text-align:justify;
+    background-color: #c8dad3;
+} 
+
+.index-container {
+    width: 900px;
+    margin: auto;
+    padding: 15px 30px;
+    background-color: #f2f4d1;
+    
+}
+
+.main-section-container {
+    width: 900px;
+    margin: auto;
+    padding: 15px 30px;
+    text-align:justify;
+    background-color: #93b5b3;
+    overflow:hidden;
+}
+
+.section-two-container {
+    width: 900px;
+    margin: auto;
+    padding: 15px 30px;
+    text-align:justify;
+    background-color: #c8dad3;
+    overflow: hidden;
+
+}
+
+.list-container {
+    width: 900px;
+    margin: auto;
+    padding: 15px 30px;
+    background-color: #93b5b3;
+   }
+
+.index {
+    margin-left: 33.33%;
+}
+
+.title {
+    width: 960px;
+    
+    margin: auto;    
+}
+
+.important-bold {
+    font-weight: bold;
+}
+
+.subtitle-size {
+    font-size: 16px;
+    
+}
+
+.album-italics {
+    font-style: italic;
+}
+
+.quote-italics {
+    font-size: 13px;
+    font-style: italic;
+    margin: 10px 60px;
+}
+
